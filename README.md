@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @John-Case
 - 👀 I’m interested in food and music
-- 🌱 I’m currently learning Computer Science at California Baptist
+- 🌱 I’m currently learning Computer Science at California Baptist University
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
